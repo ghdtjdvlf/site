@@ -160,7 +160,7 @@ div {
     margin: 0 auto;
     width: 964px;
     height: 257px;
-    background: url('../imges/maintext.png')
+    background: url('/imges/maintext.png')
 }
 
 .container .subtit {
@@ -461,7 +461,7 @@ div {
 
 
 .section3 .inner .container .obj {
-    background: url('/asset/imges/sec03-01.png');
+    background: url('/site/asset/imges/sec03-01.png');
     background-position: center;
     background-repeat: no-repeat;
     width: 831px;
@@ -490,7 +490,7 @@ div {
 }
 
 .section3 .inner .container .boxes .box .box-icon_s1 {
-    background: url('/asset/imges/sec03-02.png');
+    background: url('/site/asset/imges/sec03-02.png');
     background-position: center;
     background-repeat: no-repeat;
     width: 444px;
@@ -499,7 +499,7 @@ div {
 }
 
 .section3 .inner .container .boxes .box .box-icon_s2 {
-    background: url('/asset/imges/sec03-03.png');
+    background: url('/site/asset/imges/sec03-03.png');
     background-position: center;
     background-repeat: no-repeat;
     width: 444px;
@@ -509,7 +509,7 @@ div {
 }
 
 .section3 .inner .container .boxes .box .box-icon_s3 {
-    background: url('/asset/imges/sec03-04.png');
+    background: url('/site/asset/imges/sec03-04.png');
     background-position: center;
     background-repeat: no-repeat;
     width: 565px;
@@ -574,7 +574,7 @@ div {
 }
 
 .section4 .items .item:nth-child(1) .img {
-    background: url('/asset/imges/sec03-05.png');
+    background: url('/site/asset/imges/sec03-05.png');
     background-position: center;
     background-repeat: no-repeat;
     width: 547px;
@@ -582,7 +582,7 @@ div {
 }
 
 .section4 .items .item:nth-child(2) .img {
-    background: url('/asset/imges/sec03-06.png');
+    background: url('/site/asset/imges/sec03-06.png');
     background-position: center;
     background-repeat: no-repeat;
     width: 547px;
@@ -590,7 +590,7 @@ div {
 }
 
 .section4 .items .item:nth-child(3) .img {
-    background: url('/asset/imges/sec03-07.png');
+    background: url('/site/asset/imges/sec03-07.png');
     background-position: center;
     background-repeat: no-repeat;
     width: 547px;
@@ -598,7 +598,7 @@ div {
 }
 
 .section4 .items .item:nth-child(4) .img {
-    background: url('/asset/imges/sec03-08.png');
+    background: url('/site/asset/imges/sec03-08.png');
     background-position: center;
     background-repeat: no-repeat;
     width: 547px;
@@ -606,7 +606,7 @@ div {
 }
 
 .section4 .items .item:nth-child(5) .img {
-    background: url('/asset/imges/sec03-09.png');
+    background: url('/site/asset/imges/sec03-09.png');
     background-position: center;
     background-repeat: no-repeat;
     width: 547px;
@@ -614,7 +614,7 @@ div {
 }
 
 .section4 .items .item:nth-child(6) .img {
-    background: url('/asset/imges/sec03-10.png');
+    background: url('/site/asset/imges/sec03-10.png');
     background-position: center;
     background-repeat: no-repeat;
     width: 547px;
@@ -634,7 +634,7 @@ div {
 }
 
 .section5 .container {
-    background: url('/asset/imges/sec04-bg.png');
+    background: url('/site/asset/imges/sec04-bg.png');
     width: 1920px;
     height: 1974px;
     padding: 1px;
@@ -660,7 +660,7 @@ div {
 }
 
 .section5 .boxes .box:nth-child(1) .profile{
-    background: url('/asset/imges/sec04-01.png') no-repeat;
+    background: url('/site/asset/imges/sec04-01.png') no-repeat;
     background-position: center;
     width: 316px;
     height: 316px;
@@ -668,7 +668,7 @@ div {
 
 
 .section5 .boxes .box:nth-child(2) .profile{
-    background: url('/asset/imges/sec04-02.png') no-repeat;
+    background: url('/site/asset/imges/sec04-02.png') no-repeat;
     background-position: center;
     width: 304px;
     height: 304px;
@@ -676,7 +676,7 @@ div {
 
 
 .section5 .boxes .box:nth-child(3) .profile{
-    background: url('/asset/imges/sec04-03.png') no-repeat;
+    background: url('/site/asset/imges/sec04-03.png') no-repeat;
     background-position: center;
     width: 296px;
     height: 296px;
@@ -704,7 +704,7 @@ div {
 }
 
 .section6 .container .main-icon{
-    background: url('/asset/imges/sec05-01.png') no-repeat;
+    background: url('/site/asset/imges/sec05-01.png') no-repeat;
     background-position: center;
     width: 399px;
     height: 360px;
@@ -743,35 +743,35 @@ div {
 }
 
 .section6 .container .boxes .box:nth-child(1) .icon{
-    background: url('/asset/imges/sec05-02.png') no-repeat ;
+    background: url('/site/asset/imges/sec05-02.png') no-repeat ;
     background-position: center;
     width: 281px;
     height: 237px;
 
 }
 .section6 .container .boxes .box:nth-child(2) .icon{
-    background: url('/asset/imges/sec05-03.png') no-repeat ;
+    background: url('/site/asset/imges/sec05-03.png') no-repeat ;
     background-position: center;
     width: 281px;
     height: 237px;
 
 }
 .section6 .container .boxes .box:nth-child(3) .icon{
-    background: url('/asset/imges/sec05-04.png') no-repeat ;
+    background: url('/site/asset/imges/sec05-04.png') no-repeat ;
     background-position: center;
     width: 281px;
     height: 237px;
 
 }
 .section6 .container .boxes .box:nth-child(4) .icon{
-    background: url('/asset/imges/sec05-05.png') no-repeat ;
+    background: url('/site/asset/imges/sec05-05.png') no-repeat ;
     background-position: center;
     width: 281px;
     height: 237px;
 
 }
 .section6 .container .boxes .box:nth-child(5) .icon{
-    background: url('/asset/imges/sec05-06.png') no-repeat ;
+    background: url('/site/asset/imges/sec05-06.png') no-repeat ;
     background-position: center;
     width: 281px;
     height: 237px;
@@ -806,14 +806,14 @@ div {
 }
 
 .section7 .inner .container .boxes .box-left h2 {
-    background: url('/asset/imges/sec06-text.png') no-repeat;
+    background: url('/site/asset/imges/sec06-text.png') no-repeat;
     background-position: center;
     width: 631px;
     height: 189px;
 }
 
 .section7 .inner .container .boxes .box-left .img {
-    background: url('/asset/imges/sec06-01.png') no-repeat;
+    background: url('/site/asset/imges/sec06-01.png') no-repeat;
     background-position: center;
     width: 638px;
     height: 179px;
