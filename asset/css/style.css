@@ -160,7 +160,7 @@ div {
     margin: 0 auto;
     width: 964px;
     height: 257px;
-    background: url('/imges/maintext.png')
+    background: url('/site/asset/imges/maintext.png')
 }
 
 .container .subtit {
@@ -206,12 +206,13 @@ div {
     display: flex;
     flex-direction: column;
     justify-content: center;
-
 }
+
 
 .section1 .box-left .left-top p {
     color: #1B1B1B;
 }
+
 
 
 .section1 .box-left .left-bottom {
@@ -220,6 +221,8 @@ div {
     height: 148px;
     background-color: #381E1F;
 }
+
+
 
 .section1 .box-left .left-bottom .bottom_content {
     position: absolute;
@@ -350,7 +353,7 @@ div {
 
 .section2 .serach-box {
     position: absolute;
-    background: url('/asset/imges/icon/sec02-icon__search.svg') no-repeat;
+    background: url('/site/asset/imges/icon/sec02-icon__search.svg') no-repeat;
     background-position: 90%, 20%;
     width: 821px;
     height: 114px;
@@ -388,7 +391,7 @@ div {
 
 .section2 .obj {
     margin: 0 auto;
-    background: url('/asset/imges/sec02-01.png') no-repeat;
+    background: url('/site/asset/imges/sec02-01.png') no-repeat;
     background-position: center;
     background-size: cover;
     width: 1859px;
